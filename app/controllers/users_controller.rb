@@ -15,6 +15,7 @@ class UsersController < ApplicationController
 
   def show
     @user = User.find_by(id: params[:id])
+    @jotters = current_user.jotters
   end
 
   private

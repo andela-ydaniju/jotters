@@ -1,0 +1,2 @@
+module JottersHelper
+end
