@@ -49,9 +49,9 @@ Install [RubyGems](https://rubygems.org/) and [Bundler](http://bundler.io/) to h
 
 1. User account activation
 
-2. Statistics available for shortened urls
+2. User login and logout
 
-3. Registered user can edit, delete or dectivate urls
+3. Jotter creation, update and destruction
 
 
 ## Limitations
@@ -76,5 +76,5 @@ Install [RubyGems](https://rubygems.org/) and [Bundler](http://bundler.io/) to h
 5. Push to branch created
 
   ```$ git push origin new_feature```
-  
+
 6. Wait
