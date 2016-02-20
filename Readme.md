@@ -1,3 +1,5 @@
+# Jotters
+
 ## Getting Started
 Clone or fork this repository or download the entire project as a zip package and run locally.
 
@@ -74,4 +76,5 @@ Install [RubyGems](https://rubygems.org/) and [Bundler](http://bundler.io/) to h
 5. Push to branch created
 
   ```$ git push origin new_feature```
+  
 6. Wait
